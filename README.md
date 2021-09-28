@@ -7,7 +7,7 @@ A real-time game where the player has to dig through earth to find oil and run a
 
 This was a school project where I had to program the game characters and objects for The TunnelMan Game. 
 
-This was the first project of significantly large size that I wrote in my life. There was a quick deadline for this project so a lot of the code is not clean and minimal. I will aim to write code of better quality in my future projects.
+This was the first project of significantly large size that I wrote in my life. There was a quick deadline for this project so a lot of the code is not clean and minimal. I aim to write code of better quality in my future projects.
 
 <br/>
 

@@ -1,4 +1,4 @@
-# the-tunnelman-game-cplusplus
+# The Tunnel Man Game
 A real-time game where the player has to dig through earth to find oil and run away from protestors who can kill the player. The player can pick up helpful items, advance to the next level, and accumulate a high score.
 
 <br/>
